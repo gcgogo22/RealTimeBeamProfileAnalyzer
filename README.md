@@ -1,4 +1,4 @@
-# Real_Time_Beam_Profile_Analyzer
+# Real Time Beam Profile Analyzer
 
 ## Motivation:
 
